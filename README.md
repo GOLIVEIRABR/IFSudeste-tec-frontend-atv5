@@ -1,9 +1,9 @@
 # IFSudeste - Espec. em Desenv. Web e Mobile
-## Atividade 4
+## Atividade 5
 
 ### Descrição
 
-Esta é a quarta atividade da disciplina de **Tecnologias Frontend** do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar características do **React JS** como a criação de listas usando chaves e estados.
+Esta é a quinta atividade da disciplina de **Tecnologias Frontend** do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar características do **React JS** como componentes e temas.
 
 Maiores informações estão no vídeo abaixo:
 
