@@ -9,4 +9,4 @@ Maiores informações estão no vídeo abaixo:
 
 [![Assista o vídeo](http://img.youtube.com/vi/pU1AeEJn2Zc/0.jpg)](http://www.youtube.com/watch?v=pU1AeEJn2Zc "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 3")
 
-[contributing](https://demonstration-dark-mode.herokuapp.com/)
+Link do App online: <a href="https://demonstration-dark-mode.herokuapp.com/" target="_blank">https://demonstration-dark-mode.herokuapp.com/</a>
